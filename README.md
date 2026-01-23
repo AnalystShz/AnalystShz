@@ -8,7 +8,7 @@ AnalystShz/AnalystShz is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-# 📊 Data Analytics Portfolio – Shezmin Rahim
+# Data Analytics Portfolio – Shezmin Rahim
 
 Welcome to my data analytics portfolio.  
 I am an aspiring Data Analyst with hands-on experience from professional courses, projects, and simulations.  
@@ -16,7 +16,7 @@ I specialise in turning data into clear insights and practical solutions.
 
 ---
 
-## 🔹 About Me
+##  About Me
 - Entry-level Data Analyst based in the UK  
 - Interested in analytics with a focus on public-sector, healthcare, and government applications  
 - Focused on building clean, useful, honest data solutions  
@@ -24,7 +24,7 @@ I specialise in turning data into clear insights and practical solutions.
 
 ---
 
-## 🎓 Certifications
+##  Certifications
 - **CompTIA Data+ (DA0-001)**
 - **BCS Business Analysis Foundation Certificate**
 - **Google Data Analytics Professional Certificate**
@@ -33,28 +33,28 @@ I specialise in turning data into clear insights and practical solutions.
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 **Tools:** Excel, Power BI, Google Sheets  
 **Languages:** SQL (beginner–intermediate), Python (basic, optional)  
 **Techniques:** Data Cleaning, Data Transformation, Visualisation, Dashboards, Reporting, Business Analysis  
 
 ---
 
-## 📁 Projects (This Will Grow Over Time)
+##  Projects (This Will Grow Over Time)
 Below are the projects I am building to demonstrate my skills:
 
 
-### 1. COVID-19 Recovery Analysis 🦠📊
+### 1. COVID-19 Recovery Analysis 
 - Tools: Python, Jupyter Notebooks, CSV
 - Focus: Exploratory data analysis, visualizations, and predictive insights into recovery, mortality, disease severity, and ICU admissions
 - Status: Completed
 
-### 2. English Education Analysis 📚
+### 2. English Education Analysis 
 - Tools: Python, Pandas, Matplotlib, Seaborn, CSV
 - Focus: Analyzing educational attainment across towns, identifying regional differences, trends, and correlations
 - Status: Completed
 
-### 3. LEGO/STEM Club Challenge Tracker 🏗️
+### 3. LEGO/STEM Club Challenge Tracker 
 - Tools: MySQL, DBeaver, SQL
 - Focus: Database design, data retrieval, aggregation, views, functions, and data integrity for tracking children’s participation in LEGO/STEM kit builds and club challenges
 - Status: Completed
@@ -86,7 +86,7 @@ Below are the projects I am building to demonstrate my skills:
 
 ---
 
-## 📫 Contact
+##  Contact
 If you’re interested in my work or discussing data opportunities:  
 **Email:** shezminabubakar@gmail.com  
 **LinkedIn:** www.linkedin.com/in/shezmin-r-3a8591298  
