@@ -34,7 +34,12 @@ I specialise in turning data into clear insights and practical solutions.
 ---
 
 ##  Technical Skills
-**Tools:** Excel, Power BI, Google Sheets 
+**Tools:** Excel, Power BI, Google Sheets ** 
+![Static Badge](https://img.shields.io/badge/Excel-green)
+
+![Static Badge](https://img.shields.io/badge/Power_BI-gold)
+
+![Static Badge](https://img.shields.io/badge/Google_sheets-darkgreen)
 
 **Languages:** SQL (beginner–intermediate), Python (basic, optional)  
 **Techniques:** Data Cleaning, Data Transformation, Visualisation, Dashboards, Reporting, Business Analysis  
