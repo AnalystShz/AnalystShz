@@ -38,7 +38,8 @@ I specialise in turning data into clear insights and practical solutions.
 ![Static Badge](https://img.shields.io/badge/Power_BI-gold)
 ![Static Badge](https://img.shields.io/badge/Google_sheets-darkgreen)  
 
-**Languages:** SQL (beginner–intermediate), Python (basic, optional)  
+**Languages:** ![Static Badge](https://img.shields.io/badge/SQL-blue)
+ (beginner–intermediate), Python (basic, optional)  
 **Techniques:** Data Cleaning, Data Transformation, Visualisation, Dashboards, Reporting, Business Analysis  
 
 ---
