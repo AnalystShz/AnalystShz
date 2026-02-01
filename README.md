@@ -34,13 +34,18 @@ I specialise in turning data into clear insights and practical solutions.
 ---
 
 ##  Technical Skills
-**Tools:**   ![Static Badge](https://img.shields.io/badge/Excel-green)
+**Tools:**   ![Static Badge](https://img.shields.io/badge/Excel-green) 
+![Excel](https://img.shields.io/badge/EXCEL-00732A?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 ![Static Badge](https://img.shields.io/badge/Power_BI-gold)
 ![Static Badge](https://img.shields.io/badge/Google_sheets-darkgreen)  
 
-**Languages:** ![Static Badge](https://img.shields.io/badge/SQL-blue)
- (beginner–intermediate), ![Static Badge](https://img.shields.io/badge/python-yellow)
- (basic, optional)  
+**Languages:** 
+<img width="69" height="28" alt="image" src="https://github.com/user-attachments/assets/ed33a6f8-9c8c-413f-a135-94a51f81e1f1" />
+<img width="52" height="28" alt="image" src="https://github.com/user-attachments/assets/cc44a700-9f8c-4222-9519-d947603e430d" />
+<img width="106" height="28" alt="image" src="https://github.com/user-attachments/assets/f47849fc-14a7-4fe0-a28a-dd4ebd47b9a0" />
+
+
 **Techniques:** Data Cleaning, Data Transformation, Visualisation, Dashboards, Reporting, Business Analysis  
 
 ---
