@@ -12,7 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# Data Analytics Portfolio – Shezmin Rahim
+# Hi I am Shezmin Rahim <svg width="100%" height="6"><linearGradient id="g"><stop><animate attributeName="stop-color" values="#000000;#ff0000;#0000ff;#000000" dur="12s" repeatCount="indefinite"/></stop><stop offset="1"><animate attributeName="stop-color" values="#0000ff;#000000;#ff0000;#0000ff" dur="12s" repeatCount="indefinite"/></stop></linearGradient><rect width="100%" height="6" fill="url(#g)"/></svg>
+
 
 Welcome to my data analytics portfolio.  
 I am an aspiring Data Analyst with hands-on experience from professional courses, projects, and simulations.  
