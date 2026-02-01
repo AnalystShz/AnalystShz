@@ -49,46 +49,10 @@ I specialise in turning data into clear insights and practical solutions.
 ##  Projects (This Will Grow Over Time)
 Below are the projects I am building to demonstrate my skills:
 
-
-### 1. COVID-19 Recovery Analysis 
-- Tools: Python, Jupyter Notebooks, CSV
-- Focus: Exploratory data analysis, visualizations, and predictive insights into recovery, mortality, disease severity, and ICU admissions
-- Status: Completed
-
-### 2. English Education Analysis 
-- Tools: Python, Pandas, Matplotlib, Seaborn, CSV
-- Focus: Analyzing educational attainment across towns, identifying regional differences, trends, and correlations
-- Status: Completed
-
-### 3. LEGO/STEM Club Challenge Tracker 
-- Tools: MySQL, DBeaver, SQL
-- Focus: Database design, data retrieval, aggregation, views, functions, and data integrity for tracking children’s participation in LEGO/STEM kit builds and club challenges
-- Status: Completed
-
-### 4. **Data Cleaning Project**
-- Tools: Excel / SQL  
-- Focus: Removing duplicates, fixing missing values, formatting issues  
-- Status: Coming soon
-
-### 5. **Exploratory Data Analysis (EDA)**
-- Tools: Excel / Python  
-- Focus: Understanding distributions, trends, correlations  
-- Status: Coming soon
-
-### 6. **Power BI Dashboard**
-- Tools: Power BI  
-- Focus: Interactive dashboard with KPIs and insights  
-- Status: Coming soon
-
-### 7. **Business Case Analysis**
-- Tools: BA techniques (from BCS)  
-- Focus: Requirements, workflow, problem solving  
-- Status: Coming soon
-
-### 8. **Google Data Analytics Capstone**
+### 1. **Google Data Analytics Capstone**
 - Tools: R / Python / Sheets  
 - Focus: Real-world business problem analysis  
-- Status: Coming soon
+
 
 ---
 
@@ -98,5 +62,7 @@ If you’re interested in my work or discussing data opportunities:
 **LinkedIn:** www.linkedin.com/in/shezmin-r-3a8591298  
 
 
+  
+<img width="91" height="28" alt="image" src="https://github.com/user-attachments/assets/afb2f3dc-0f87-4227-abf9-fa50225b8125" /> <img width="85" height="28" alt="image" src="https://github.com/user-attachments/assets/ea44fbc7-b266-49c8-9f40-fcc3445a01b4" />
 
 
