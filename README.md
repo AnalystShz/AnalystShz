@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:b30000,80:0033cc&height=100section=header)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:b30000,80:0033cc&height=100&section=header&width=100%)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:b30000,80:0033cc&height=100&section=header&width=150%)
 
 
 
