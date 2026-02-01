@@ -3,15 +3,8 @@
 AnalystShz/AnalystShz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
-
-
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,40:FF0000,80:FFD700cc&height=25&section=header)
-
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:b30000,80:0033cc&height=25section=header)
 # Hi, I am Shezmin Rahim
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:b30000,80:0033cc&height=25section=header)
 
 Welcome to my data analytics portfolio.  
