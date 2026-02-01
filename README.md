@@ -24,14 +24,6 @@ I specialise in turning data into clear insights and practical solutions.
 
 ---
 
-##  Certifications
-- **CompTIA Data+ (DA0-001)**
-- **BCS Business Analysis Foundation Certificate**
-- **Google Data Analytics Professional Certificate**
-- **ITonlinelearning – Data Analytics Career Programme**
-- **Multiple work simulations via Forage (Accenture_North_America, BCG X, etc.)**
-
----
 
 ##  Technical Skills
 **Tools:** ![Excel](https://img.shields.io/badge/EXCEL-00732A?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white) ![Google sheets](https://img.shields.io/badge/Google%20sheets-0F9D58?style=for-the-badge&logo=google-sheets&logoColor=white)
