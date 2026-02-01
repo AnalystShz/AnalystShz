@@ -3,7 +3,14 @@
 AnalystShz/AnalystShz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://chatgpt.com/backend-api/estuary/content?id=c0da65620dc9bd1%23file_000000001cd47246b060620cf67eeaf8%23md&ts=491658&p=fs&cid=1&sig=3a827da254ac437af615b926e27cba214641ddc0371847fb87ce667121846c92&v=0
+<p align="center">
+  <!-- Animated gradient wave -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animated_gradient_example.svg" alt="Cycling Gradient Wave" width="600" />
+
+  <!-- Centered sentence below -->
+  <br />
+  <strong>Thanks for visiting my GitHub profile!</strong>
+</p>
 
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:b30000,80:0033cc&height=25section=header)
