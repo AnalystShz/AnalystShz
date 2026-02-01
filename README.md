@@ -58,21 +58,18 @@ Below are the projects I am building to demonstrate my skills:
 
 ##  Connect with Me
 
+<!-- Badges centered -->
 <p align="center">
-  <!-- LinkedIn Badge -->
   <a href="https://www.linkedin.com/in/shezmin-r-3a8591298" target="_blank">
     <img width="91" height="28" alt="LinkedIn Badge" src="https://github.com/user-attachments/assets/afb2f3dc-0f87-4227-abf9-fa50225b8125" />
   </a>
 
-  <!-- Email Badge -->
   <a href="mailto:shezminabubakar@gmail.com">
     <img width="85" height="28" alt="Email Badge" src="https://github.com/user-attachments/assets/ea44fbc7-b266-49c8-9f40-fcc3445a01b4" />
   </a>
-
-  <!-- Text under badges -->
-  <br /><br />
-  <strong>Thanks for visiting my GitHub profile!</strong>
 </p>
 
------------------------------------------------------------------------------------------------------------------------------------
-
+<!-- Text centered under badges -->
+<p align="center">
+  <strong>Thanks for visiting my GitHub profile!</strong>
+</p>
