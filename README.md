@@ -38,15 +38,7 @@ I specialise in turning data into clear insights and practical solutions.
 
 ---
 
-##  Projects (This Will Grow Over Time)
-Below are the projects I am building to demonstrate my skills:
-
-### 1. **Google Data Analytics Capstone**
-- Tools: R / Python / Sheets  
-- Focus: Real-world business problem analysis  
-
-
----
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:b30000,80:0033cc&height=25section=header)
 
 ##  Connect with Me
 
