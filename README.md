@@ -1,17 +1,13 @@
-
-
-<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/0a6a88fa-78e0-4fc0-9009-06a41627d5d7" />
-
-
-
+<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/0a6a88fa-78e0-4fc0-9009-06a41627d5d7" /
 <!---
 AnalystShz/AnalystShz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:b30000,80:0033cc&height=50section=header)
 
-# Hi, I am <span style="color:#ff0000;">Shezmin</span> <span style="color:#0000ff;">Rahim</span>
+# Hi, I am Shezmin Rahim
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:b30000,80:0033cc&height=50section=header)
 
 Welcome to my data analytics portfolio.  
 I am an aspiring Data Analyst with hands-on experience from professional courses, projects, and simulations.  
