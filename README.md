@@ -39,6 +39,8 @@ I specialise in turning data into clear insights and practical solutions.
 
 ![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
 
+![Google sheets](https://img.shields.io/badge/Google%20sheets-F2C811?style=for-the-badge&logo=google-sheets&logoColor=white)
+
 ![Static Badge](https://img.shields.io/badge/Google_sheets-darkgreen)  
 
 **Languages:** 
