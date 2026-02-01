@@ -7,7 +7,7 @@
 AnalystShz/AnalystShz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![rainbow](https://github.com/user-attachments/assets/2ceb7fcc-0099-40f1-aa6a-25da9edc5686)
+![red-blue](https://github.com/user-attachments/assets/2ceb7fcc-0099-40f1-aa6a-25da9edc5686)
 
 # Data Analytics Portfolio – Shezmin Rahim
 
