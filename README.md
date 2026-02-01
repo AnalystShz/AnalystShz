@@ -9,6 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:b30000,80:0033cc&height=120&section=header)
 
+<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/0a6a88fa-78e0-4fc0-9009-06a41627d5d7" />
 
 
 # Data Analytics Portfolio – Shezmin Rahim
