@@ -56,11 +56,8 @@ Below are the projects I am building to demonstrate my skills:
 
 ---
 
-##  Contact
-If you’re interested in my work or discussing data opportunities:  
-**Email:** shezminabubakar@gmail.com  
-**LinkedIn:** www.linkedin.com/in/shezmin-r-3a8591298  
-
+##  Connect with Me
+-----------------------------------------------------------------------------------------------------------------------------------
 <a href="https://www.linkedin.com/in/shezmin-r-3a8591298" target="_blank">
   <img width="91" height="28" alt="LinkedIn Badge" src="https://github.com/user-attachments/assets/afb2f3dc-0f87-4227-abf9-fa50225b8125" />
 </a> <a href="mailto:shezminabubakar@gmail.com">
