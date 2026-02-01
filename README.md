@@ -10,9 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:b30000,80:0033cc&height=50section=header)
 
-
-
-# Hi I am Shezmin Rahim <svg width="100%" height="6"><linearGradient id="g"><stop><animate attributeName="stop-color" values="#000000;#ff0000;#0000ff;#000000" dur="12s" repeatCount="indefinite"/></stop><stop offset="1"><animate attributeName="stop-color" values="#0000ff;#000000;#ff0000;#0000ff" dur="12s" repeatCount="indefinite"/></stop></linearGradient><rect width="100%" height="6" fill="url(#g)"/></svg>
+# Hi, I am <span style="color:#ff0000;">Shezmin</span> <span style="color:#0000ff;">Rahim</span>
 
 
 Welcome to my data analytics portfolio.  
