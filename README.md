@@ -34,10 +34,11 @@ I specialise in turning data into clear insights and practical solutions.
 ---
 
 ##  Technical Skills
-**Tools:**   ![Static Badge](https://img.shields.io/badge/Excel-green) 
+**Tools:** 
 ![Excel](https://img.shields.io/badge/EXCEL-00732A?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/Power_BI-gold)
+![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
+
 ![Static Badge](https://img.shields.io/badge/Google_sheets-darkgreen)  
 
 **Languages:** 
