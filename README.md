@@ -1,4 +1,4 @@
-<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/0a6a88fa-78e0-4fc0-9009-06a41627d5d7" /
+<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/06448aec-698b-4792-a75b-6a46c1c58d8b" />
 <!---
 AnalystShz/AnalystShz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
