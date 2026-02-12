@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <h1>Hi, I am Shezmin Rahim</h1>
 </div>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:b30000,80:0033cc&height=25section=header)
+
 
 <h3 align="center">
 Welcome to my data analytics portfolio.
@@ -42,7 +42,7 @@ I specialise in turning data into clear insights and practical solutions.
 
 ---
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:b30000,80:0033cc&height=25section=header)
+
 
 ##  Connect with Me
 
