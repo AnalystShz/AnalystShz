@@ -4,9 +4,10 @@ AnalystShz/AnalystShz is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:b30000,80:0033cc&height=25section=header)
 
-# Hi, I am Shezmin Rahim
+<div align="center">
+<h1>Hi, I am Shezmin Rahim</h1>
+</div>
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:b30000,80:0033cc&height=25section=header)
 
