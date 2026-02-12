@@ -16,6 +16,8 @@ Welcome to my data analytics portfolio.
 I am an aspiring Data Analyst with hands-on experience from professional courses, projects, and simulations.
 I specialise in turning data into clear insights and practical solutions.
 </h3>
+
+
 ---
 
 ##  About Me
