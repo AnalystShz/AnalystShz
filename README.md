@@ -60,7 +60,19 @@ I specialise in turning data into clear insights and practical solutions.
 </section>
 
  
-
+<div align="center">
+<h2 align="center" >GitHub Activity</h2> 
+<p align="center">
+<img src="https://ghchart.rshah.org/AnalystShz" />
+</p>
+</div>
+ 
+<!-- GitHub Streak -->
+<div align="center">
+<h2 align="center" >GitHub Streak</h2> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnalystShz&theme=radical" alt="GitHub Streak" width="34%">
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/AnalystShz?cardType=github&theme=gruvbox&preferLogin=false%22 alt="GitHub Streak" width="30%">
+</div>
 
 <section>
 <h2>Connect with Me</h2>
