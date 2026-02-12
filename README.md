@@ -40,7 +40,7 @@ I specialise in turning data into clear insights and practical solutions.
   <p><strong>Tools:</strong><br>
 <img src="https://img.shields.io/badge/Excel-00732A?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI">
-<img src="https://img.shields.io/badge/Google%20Sheets-0F9D58?style=for-the-badge&logo=google-sheets&logoColor=white alt="Google Sheets">
+<img src="https://img.shields.io/badge/Google%20Sheets-0F9D58?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets">
 </p>
  
   <p><strong>Languages:</strong><br>
@@ -51,11 +51,11 @@ I specialise in turning data into clear insights and practical solutions.
  
   <p><strong>Techniques:</strong><br>
 <img src="https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge&logo=none&logoColor=white" alt="Data Cleaning">
-<img src="https://img.shields.io/badge/Data%20Transformation-FF9800?style=for-the-badge&logo=none&logoColor=white alt="Data Transformation">
+<img src="https://img.shields.io/badge/Data%20Transformation-FF9800?style=for-the-badge&logo=none&logoColor=white" alt="Data Transformation">
 <img src="https://img.shields.io/badge/Visualisation-2196F3?style=for-the-badge&logo=none&logoColor=white" alt="Visualisation">
 <img src="https://img.shields.io/badge/Dashboards-9C27B0?style=for-the-badge&logo=none&logoColor=white" alt="Dashboards">
 <img src="https://img.shields.io/badge/Reporting-FF5722?style=for-the-badge&logo=none&logoColor=white" alt="Reporting">
-<img src="https://img.shields.io/badge/Business%20Analysis-795548?style=for-the-badge&logo=none&logoColor=white alt="Business Analysis">
+<img src="https://img.shields.io/badge/Business%20Analysis-795548?style=for-the-badge&logo=none&logoColor=white" alt="Business Analysis">
 </p>
 </section>
 
