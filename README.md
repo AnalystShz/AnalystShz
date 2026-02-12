@@ -21,14 +21,14 @@ I specialise in turning data into clear insights and practical solutions.
 ---
 
 
-<div align="center" >
-  About Me
+<div align="center">
+<h2>About Me</h2>
+</div>
+ 
 - Entry-level Data Analyst based in the UK  
 - Interested in analytics with a focus on public-sector, healthcare, and government applications  
 - Focused on building clean, useful, honest data solutions  
 - Passion for problem-solving and continuous learning
-<h2></h2>
-</div>
 
 
 ---
