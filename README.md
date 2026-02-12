@@ -34,9 +34,39 @@ I specialise in turning data into clear insights and practical solutions.
 ---
 
 
-##  Technical Skills
-**Tools:** ![Excel](https://img.shields.io/badge/EXCEL-00732A?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white) ![Google sheets](https://img.shields.io/badge/Google%20sheets-0F9D58?style=for-the-badge&logo=google-sheets&logoColor=white)
+## Technical Skills
+ 
+**Tools:** 
 
+![Excel](https://img.shields.io/badge/Excel-00732A?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white) 
+
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-0F9D58?style=for-the-badge&logo=google-sheets&logoColor=white)
+ 
+**Languages:** 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+ 
+**Techniques:** 
+
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge&logo=none&logoColor=white) 
+
+![Data Transformation](https://img.shields.io/badge/Data%20Transformation-FF9800?style=for-the-badge&logo=none&logoColor=white) 
+
+![Visualisation](https://img.shields.io/badge/Visualisation-2196F3?style=for-the-badge&logo=none&logoColor=white) 
+
+![Dashboards](https://img.shields.io/badge/Dashboards-9C27B0?style=for-the-badge&logo=none&logoColor=white) 
+
+![Reporting](https://img.shields.io/badge/Reporting-FF5722?style=for-the-badge&logo=none&logoColor=white) 
+
+![Business Analysis](https://img.shields.io/badge/Business%20Analysis-795548?style=for-the-badge&logo=none&logoColor=white)
+
+ 
 
 
 
