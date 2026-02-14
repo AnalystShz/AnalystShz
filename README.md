@@ -16,11 +16,11 @@ Hi, I'm <strong>Shezmin Rahim</strong>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=069494&width=600&lines=Hi%2C+I'm+Shezmin+Rahim;I'm+an+Aspiring+Data+Analyst" alt="Typing+Font" />
 </p>
 
-<h1 align="center">
+<h2 align="center">
 Welcome to my data analytics portfolio.
 I am an aspiring Data Analyst with hands-on experience from professional courses, projects, and simulations.
 I specialise in turning data into clear insights and practical solutions.
-</h1>
+</h2>
 
 
 ---
