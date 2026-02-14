@@ -5,12 +5,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<div align="center">
-<h3>Hi, I am Shezmin Rahim</h3>
-</div>
-
-
-
 
 <!-- Header 
 <h1 align="center" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">
