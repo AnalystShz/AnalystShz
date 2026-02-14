@@ -13,7 +13,7 @@ Hi, I'm <strong>Shezmin Rahim</strong>
 -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C0FF&width=600&lines=Hi%2C+I'm+Shezmin+Rahim;I'm+an+Aspiring+Data+Analyst" alt="Typing+Font" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=069494&width=600&lines=Hi%2C+I'm+Shezmin+Rahim;I'm+an+Aspiring+Data+Analyst" alt="Typing+Font" />
 </p>
 
 <h3 align="center">
