@@ -6,12 +6,12 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="center">
-<h1>Hi, I am Shezmin Rahim</h1>
+<h3>Hi, I am Shezmin Rahim</h3>
 </div>
 
 <!-- Header 
 <h1 align="center" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">
-Hi, I'm <strong>Darren van der Velde</strong>
+Hi, I'm <strong>Shezmin Rahim</strong>
 </h1>
 -->
 
