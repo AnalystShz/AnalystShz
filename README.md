@@ -9,7 +9,11 @@ You can click the Preview link to take a look at your changes.
 <h1>Hi, I am Shezmin Rahim</h1>
 </div>
 
-
+<!-- Header 
+<h1 align="center" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">
+Hi, I'm <strong>Darren van der Velde</strong>
+</h1>
+-->
 
 <h3 align="center">
 Welcome to my data analytics portfolio.
