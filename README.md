@@ -9,11 +9,25 @@ You can click the Preview link to take a look at your changes.
 <h3>Hi, I am Shezmin Rahim</h3>
 </div>
 
+<p align="center">
+  <img 
+    src="https://avatars.githubusercontent.com/u/241697224?s=400&v=4"
+    width="140"
+    height="140"
+    style="border-radius:50%;"
+  />
+</p>
+
+
 <!-- Header 
 <h1 align="center" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">
 Hi, I'm <strong>Shezmin Rahim</strong>
 </h1>
 -->
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C0FF&width=600&lines=Hi%2C+I'm+Darren+Van+Der+Velde;I'm+a+Full-Stack+Developer;and+Data+Analysis" alt="Typing+Font" />
+</p>
 
 <h3 align="center">
 Welcome to my data analytics portfolio.
